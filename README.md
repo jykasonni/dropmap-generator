@@ -1,2 +1,3 @@
 # dropmap-generator
-A Fortnite dropmap generator, Click anywhere on the map and it will automatically create a dropmap for you :) Some are still shitty but continuously updating.
+
+You can use it in here: https://perustero.pythonanywhere.com/ , There are some ads because I need to eat too.
